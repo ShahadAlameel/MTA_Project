@@ -1,2 +1,2 @@
 # MTA_Project
-MTA project Proposal for SDAIA T5 Bootcamp 
+MTA project for SDAIA T5 Bootcamp 
